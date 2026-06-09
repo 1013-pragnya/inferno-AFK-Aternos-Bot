@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "InfernoSMP-llEM.aternos.me:26695",
+    "port": 26695,
     "version": "",
     "try-creative": false
   },
